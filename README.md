@@ -5,3 +5,12 @@ Before running the app, you need to install the required packages. You can do th
 
 ```bash
 pip install -r requirements.txt
+```
+This command reads the requirements.txt file and installs all the packages listed in it.
+
+## Running the App
+After installing the required packages, you can run the Flask app with the following command:
+
+```bash
+python app.py
+```
