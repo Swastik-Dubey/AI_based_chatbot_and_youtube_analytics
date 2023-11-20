@@ -11,7 +11,7 @@ nltk.download('vader_lexicon')
 app = Flask(__name__)
 
 # Define the headers variable
-headers = {"Authorization": "Bearer hugging_face access keys"}
+headers = {"Authorization": "Bearer hugging_face_access_keys"}
 api_key = 'API_keys_here'
 
 # Question and Answer models
