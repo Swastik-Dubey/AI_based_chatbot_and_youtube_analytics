@@ -39,12 +39,12 @@ python app.py
 
 Now that you have obtained both keys, configure the application with these keys.
 
-1. Open the `config.py` file in the project.
+1. Open the `app.py` file in the project.
 2. Replace the `HUGGING_FACE_ACCESS_KEY` variable with your Hugging Face read-only access key.
 3. Replace the `GOOGLE_API_KEY` variable with your Google Cloud Console API key.
 
 ```python
-# config.py
+# app.py
 
 # Hugging Face API Key
 HUGGING_FACE_ACCESS_KEY = 'your_hugging_face_access_key'
