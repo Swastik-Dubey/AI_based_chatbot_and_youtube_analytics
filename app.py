@@ -12,7 +12,7 @@ app = Flask(__name__)
 
 # Define the headers variable
 headers = {"Authorization": "Bearer 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"}
-api_key = 'AIzaSyCxuBXumtGhE7xSgPL27MSrDIc_9bkWVrs'
+api_key = 'API_keys_here'
 
 # Question and Answer models
 qa_models = [
