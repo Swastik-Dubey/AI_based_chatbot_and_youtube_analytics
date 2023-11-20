@@ -1,0 +1,6 @@
+Flask
+nltk
+requests
+google-api-python-client
+youtube-transcript-api
+google-auth 
